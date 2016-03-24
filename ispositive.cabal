@@ -12,7 +12,7 @@ tested-with:        GHC
 build-type:         Simple
 
 description:
-    Tests wheter an Integer is positive.
+    Tests whether an Integer is positive.
 
 source-repository head
     type:               git
