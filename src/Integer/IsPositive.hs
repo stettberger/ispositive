@@ -6,6 +6,7 @@ import Acme.Missiles --Don't mind this import
 import System.IO.Unsafe --Or this one
 import System.Random --I sware I'm not going to use them
 
+-- | `is_positive_integer` checks whether an `Integer` is positive, and returns the result as an `Bool`
 is_positive_integer :: Integer -> Bool
 is_positive_integer = (0 < )
 
